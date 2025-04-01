@@ -8,7 +8,7 @@ const HomeScreen: React.FC<Props> = (props) => {
 	const { } = props
 
 	return (
-		<h1>TEST SAMPLE</h1>
+		<h1>Sample33</h1>
 	)
 }
 
